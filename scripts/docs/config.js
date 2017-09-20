@@ -18,9 +18,4 @@ module.exports = {
   // path to where docs live in site content folder
   siteDocsPath: path.join(projectRoot, 'content/framework/docs/'),
   docsMenuPath: path.join(projectRoot, 'src/layouts/Doc/'),
-  // downloadLink: `${repoURL}/archive/master/.zip`
-  downloadLink: `${repoURL}/archive/${repoBranch}/.zip`
 }
-// TODO pull in latest release not master for docs build
-// https://api.github.com/repos/serverless/serverless/releases/latest
-// https://github.com/serverless/serverless/archive/v1.20.2.zip
