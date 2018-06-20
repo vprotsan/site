@@ -113,6 +113,7 @@
     "style-loader": "^0.13.0",
     "stylelint": "^7.2.0",
     "svgo": "^0.7.0",
+    "url-loader": "^1.0.1",
     "watch": "^1.0.1",
     "webpack": "^2.3.0",
     "webpack-visualizer-plugin": "^0.1.11",
